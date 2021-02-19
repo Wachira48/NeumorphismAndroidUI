@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/background_color">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:padding="50dp">
+        <soup.neumorphism.NeumorphButton
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Sign In Example One"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:textColor="@color/text_color"
+            style="@style/Widget.Neumorph.Button">
+        </soup.neumorphism.NeumorphButton>
+
+        <soup.neumorphism.NeumorphButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            android:layout_marginTop="10dp"
+            android:text="Sign In Example Two"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:textColor="@color/text_color"
+            style="@style/Widget.Neumorph.Button">
+        </soup.neumorphism.NeumorphButton>
+        <soup.neumorphism.NeumorphButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/dashboardUI"
+            android:layout_marginTop="10dp"
+            android:text="Dashboard UI"
+            android:layout_gravity="center"
+            android:textSize="16dp"
+            android:textColor="@color/text_color"
+            style="@style/Widget.Neumorph.Button">
+        </soup.neumorphism.NeumorphButton>
+    </LinearLayout>
+</RelativeLayout>
