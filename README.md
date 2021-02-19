@@ -1,7 +1,4 @@
-
-<p align="center">
-![](./neumorphism.png)<br/>
-</p>
+![Screenshots](./neumorphism.png)<br/>
 
 <p align="center">
 <img height="200" src='https://github.com/fornewid/Neumorphism/blob/master/art/preview.png'/>
