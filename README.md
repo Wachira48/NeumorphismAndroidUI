@@ -1,10 +1,9 @@
-![Screenshots](./neumorphism.png)<br/>
-
 <p align="center">
 <img height="200" src='https://github.com/fornewid/Neumorphism/blob/master/art/preview.png'/>
 </p>
 
 <h1 align="center">Neumorphism in Android</h1><br/>
+<img src="/neumorphism.png?raw=true" alt="neumorphism" /><br />
 <p align="center">
   This is the experimental codes to build Neumorphism designs in Android.<br/>
   Not a library. Just sample project now.<br/>
